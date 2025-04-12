@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MovieBuddy</string>
+    <string name="gcm_defaultSenderId" translatable="false">188404566806</string>
+    <string name="google_api_key" translatable="false">AIzaSyBRAkA2cyLnihrzMO0XN5KUlDTjvq07ILU</string>
+    <string name="google_app_id" translatable="false">1:188404566806:android:ef30bca4fc666951085e37</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBRAkA2cyLnihrzMO0XN5KUlDTjvq07ILU</string>
+    <string name="google_storage_bucket" translatable="false">moviefirebaseapp-a1782.firebasestorage.app</string>
+    <string name="project_id" translatable="false">moviefirebaseapp-a1782</string>
+</resources>
